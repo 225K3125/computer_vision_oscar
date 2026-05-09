@@ -92,6 +92,7 @@ target/
 # Exclude trained models
 /models/
 /notebooks/data/
+/notebooks/data/*
 
 # exclude data from source control by default
 # /data/
